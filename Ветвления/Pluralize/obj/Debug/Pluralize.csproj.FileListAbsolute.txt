@@ -1,0 +1,8 @@
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\bin\Debug\rubles.txt
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\bin\Debug\Pluralize.exe.config
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\bin\Debug\Pluralize.exe
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\bin\Debug\Pluralize.pdb
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\obj\Debug\Pluralize.csprojAssemblyReference.cache
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\obj\Debug\Pluralize.exe
+C:\Users\shita\Desktop\C#\Ulearn_C#_1\Ветвления\Pluralize\obj\Debug\Pluralize.pdb
